@@ -60,7 +60,7 @@ Compares employee headcount across departments to understand workforce distribut
 9. Interactive Department Filter
 Allows users to filter dashboard visuals by department for a more focused analysis.
 
-🖼️ Dashboard Preview (https://github.com/NimishaRajan13/HR-Analytics-DashBoard-Power-BI/tree/main)
+🖼️ Dashboard Preview (https://github.com/NimishaRajan13/HR-Analytics-DashBoard-Power-BI/commit/0158e2e203db6bc3b99e819120a448fbe87db255)
 
 ![HR Analytics Dashboard](https://github.com/NimishaRajan13/HR-Analytics-DashBoard-Power-BI/tree/main)
 
