@@ -62,7 +62,7 @@ Allows users to filter dashboard visuals by department for a more focused analys
 
 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](HR dash board.pbix)
+![HR Analytics Dashboard](https://github.com/NimishaRajan13/HR-Analytics-DashBoard-Power-BI/tree/main)
 
 💡 Key Insights
 
