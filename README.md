@@ -1,4 +1,4 @@
-# HR-Analytics-DashBoard-Power-BI
+
 # HR Analytics Dashboard | Power BI
 
 ## 📊 Project Overview
@@ -62,7 +62,7 @@ Allows users to filter dashboard visuals by department for a more focused analys
 
 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](dashboard-preview.png)
+![HR Analytics Dashboard](HR dash board.pbix)
 
 💡 Key Insights
 
